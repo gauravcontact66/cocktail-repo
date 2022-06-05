@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cocktail-repo/static/css/main.b3f33256.css",
+    "main.js": "/cocktail-repo/static/js/main.9ad95a3e.js",
+    "static/js/787.c9246cf9.chunk.js": "/cocktail-repo/static/js/787.c9246cf9.chunk.js",
+    "index.html": "/cocktail-repo/index.html",
+    "main.b3f33256.css.map": "/cocktail-repo/static/css/main.b3f33256.css.map",
+    "main.9ad95a3e.js.map": "/cocktail-repo/static/js/main.9ad95a3e.js.map",
+    "787.c9246cf9.chunk.js.map": "/cocktail-repo/static/js/787.c9246cf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f33256.css",
+    "static/js/main.9ad95a3e.js"
+  ]
+}
