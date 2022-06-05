@@ -49,7 +49,7 @@ const CocktailList = () => {
   const [expanded, setExpanded] = useState(false);
   const { cocktails, loading } = useSelector((state) => ({ ...state.app }));
   const [modifiedCocktail, setModifiedCocktail] = useState([]);
-  const dispatch = useDispatch();
+  const dispatch = useDispatch;
 
   const handleExpandClick = () => {
     setExpanded(!expanded);
@@ -78,7 +78,7 @@ const CocktailList = () => {
     } else {
       setModifiedCocktail([]);
     }
-  }, [cocktails]);
+  });
 
   if (loading) {
     return (
